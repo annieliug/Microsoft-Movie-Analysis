@@ -1,4 +1,4 @@
-# Phase 1 Project
+# Phase 1 Project!
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
