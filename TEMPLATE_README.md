@@ -108,21 +108,21 @@ Here is an example of how to embed images from your sub-folder:
 
 Genre popularity (by count)
 
-![](./images/genre_count1.png)
+![Graph1](./images/genre_count1.png)
 
 Profit seasonality
 
-![](./images/season_profit.png)
+![Graph2](./images/season_profit.png)
 
 Budget vs Rating (large data)
 
-![](./images/budget_rating.png)
+![Graph3](./images/budget_rating.png)
 
 Budget vs Rating (mean data)
 
-![](./images/budget_rating2.png)
+![Graph4](./images/budget_rating2.png)
 
-![graph1](./images/viz1.png)
+![Graph5](./images/viz1.png)
 
 ## Conclusions
 
