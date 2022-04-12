@@ -1,5 +1,7 @@
 # Microsoft Movie Analysis - Project 1
 
+![action](./images/directorshot.JPEG)
+
 **Authors**: Annie Liu
 
 ## Overview
