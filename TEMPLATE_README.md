@@ -106,17 +106,20 @@ Here is an example of how to embed images from your sub-folder:
 
 ### Visualizations
 
-Genre popularity (by count)
-![graph1])./images/genre_count.png)
-
-Budget vs Rating (large data)
-![graph2])./images/budget_rating.png)
-
-Budget vs Rating (mean data)
-![graph3])./images/budget_rating2.png)
+Genre popularity(by count)
+![graph1](./C:\Users\AnnieLiu\Desktop\Misc\DA - Materials\Project 1\Microsoft-Movie-Analysis\images)
 
 Profit seasonality
-![graph4])./images/season_profit.png)
+
+![graph4](./images/season_profit.png)
+
+Budget vs Rating (large data)
+
+![graph2](./images/budget_rating.png)
+
+Budget vs Rating (mean data)
+
+![graph3](./images/budget_rating2.png)
 
 ![graph1](./images/viz1.png)
 
