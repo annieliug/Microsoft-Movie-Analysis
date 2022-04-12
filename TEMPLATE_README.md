@@ -1,4 +1,4 @@
-# Microsoft Movie Analysis - Project 1
+# Microsoft Movie Analysis
 
 **Authors**: Annie Liu
 
