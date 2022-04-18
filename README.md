@@ -1,6 +1,6 @@
 # Microsoft Movie Analysis - Project 1
 
-![banner](./images/banner.jpg)
+![action](./images/banner.jpg)
 
 **Author**: Annie Liu
 
@@ -112,15 +112,19 @@ Here is an example of how to embed images from your sub-folder:
 ### Visualizations
 
 ![Graph1](./images/genrecount.png)
+
 Genre popularity (by count)
 
 ![Graph2](./images/profit.png)
+
 Seasonal profitability
 
 ![Graph3](./images/budgetrating1.png)
+
 Budget vs Rating (large data)
 
 ![Graph4](./images/budgetrating2.png)
+
 Budget vs Rating (mean data)
 
 
@@ -166,12 +170,14 @@ For any additional questions, please contact **Annie Liu at annieliu1989@yahoo.c
 Describe the structure of your repository and its contents, for example:
 
 ```
-├── data                	           
-├── images   				     
-├── Microsoft-Movie-Analysis.ipnb                       
-├── Microsoft-Movie-Analysis_Presentation.pdf     
-├── notebook.pdf                	
-├── github.pdf				        
-├── README.md                        
+├── README.md             			
+├── Microsoft-Movie-Analysis.ipynb		
+├── Microsoft-Movie-Analysis_Presentation.pdf 	
+├── notebook.pdf	            		
+├── data                             		
+└── images                           		
 ```
+
+├── Github.pdf
+
                         	
