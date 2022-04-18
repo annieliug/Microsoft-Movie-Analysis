@@ -123,7 +123,7 @@ Seasonal profitability
 
 Budget vs Rating (large data)
 
-![Graph4](./images/budgetrating1.png)
+![Graph4](./images/br.png)
 
 Budget vs Rating (mean data)
 
