@@ -1,6 +1,6 @@
 # Microsoft Movie Analysis - Project 1
 
-![action](./images/directorshot.JPEG)
+![action](./images/directorshot.jpg)
 
 **Author**: Annie Liu
 
@@ -124,6 +124,8 @@ Budget vs Rating (large data)
 Budget vs Rating (mean data)
 
 ![Graph5](./images/viz1.png)
+
+![Graph6](./images/test.png)
 
 ## Conclusions
 
