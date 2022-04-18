@@ -119,11 +119,11 @@ Genre popularity (by count)
 
 Seasonal profitability
 
-![Graph3](./images/budgetrating1.png)
+![Graph3](./images/budgetrating.png)
 
 Budget vs Rating (large data)
 
-![Graph4](./images/budgetrating2.png)
+![Graph4](./images/budgetrating1.png)
 
 Budget vs Rating (mean data)
 
