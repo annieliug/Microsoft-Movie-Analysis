@@ -107,8 +107,6 @@ Only under this circumstance did we aggregate data with an average to help us be
 
 ***
 
-Here is an example of how to embed images from your sub-folder:
-
 ### Visualizations
 
 ![Graph1](./images/genrecount.png)
@@ -136,20 +134,20 @@ These are hypothetical assumptions, we would require further analysis.
 
 From the results in our analysis, we recommend the following:
 
-### Recommendation 1
+#### Recommendation 1
 
 Produce drama, comedy and/or action omovies.
 
-### Recommendation 2
+#### Recommendation 2
 
 Release movies around between May and July (or November towards end of the year) as it yields higher profitability.
 
-### Recommendation 3
+#### Recommendation 3
 
 Increase movie budgets for better ratings.
 
 
-#### Next Steps
+### Next Steps
 
 There could be other variables that Microsoft would be interested in understanding to better establish the types of movies to produce. 
 
@@ -161,7 +159,7 @@ Having a bigger picture of the landscape, we can drill down further. It would al
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./Microsoft-Movie-Analysis.ipynb) or our [presentation](./Microsoft-Movie-Analysis_AL-Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Microsoft-Movie-Analysis.ipynb) or our [presentation](./Microsoft-Movie-Analysis_Presentation.pdf).
 
 For any additional questions, please contact **Annie Liu at annieliu1989@yahoo.com**
 
@@ -170,14 +168,13 @@ For any additional questions, please contact **Annie Liu at annieliu1989@yahoo.c
 Describe the structure of your repository and its contents, for example:
 
 ```
-├── README.md             			
-├── Microsoft-Movie-Analysis.ipynb		
-├── Microsoft-Movie-Analysis_Presentation.pdf 	
-├── notebook.pdf	            		
-├── data                             		
-└── images                           		
+├── README.md                           
+├── Microsoft-Movie-Analysis.ipynb.ipynb         
+├── Microsoft-Movie-Analysis_Presentation.pdf     
+├── notebook.pdf 			              
+├── github.pdf				          
+├── data                        
+├── images                                                  
 ```
-
-├── Github.pdf
 
                         	
