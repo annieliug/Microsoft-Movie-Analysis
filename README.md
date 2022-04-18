@@ -168,13 +168,13 @@ For any additional questions, please contact **Annie Liu at annieliu1989@yahoo.c
 Describe the structure of your repository and its contents, for example:
 
 ```
-├── README.md                           
-├── Microsoft-Movie-Analysis.ipynb.ipynb         
-├── Microsoft-Movie-Analysis_Presentation.pdf     
-├── notebook.pdf 			              
-├── github.pdf				          
-├── data                        
-├── images                                                  
+├── data                           
+├── images         
+├── Microsoft-Movie-Analysis.ipnb    
+├── Microsoft-Movie-Analysis_Presentation.pdf	              
+├── Notebook.pdf				          
+├── README.md                        
+├── Github.pdf
 ```
 
                         	
